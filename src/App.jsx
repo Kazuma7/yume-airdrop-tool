@@ -105,11 +105,7 @@ function App() {
 
   return (
     <div className="App theme-bg min-h-screen theme-text-color">
-      <Modal
-        isOpen={modalIsOpen}
-        onRequestClose={closeModal}
-        style={customStyles}
-      >
+      <Modal isOpen={modalIsOpen} style={customStyles}>
         <div className="text-center py-4 font-bold text-xl">
           コラボNFT受け取り
         </div>
