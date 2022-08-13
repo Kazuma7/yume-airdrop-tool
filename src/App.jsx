@@ -186,7 +186,7 @@ function App() {
           </div>
         </div>
         <div className="theme-card-bg rounded-xl mt-24 max-w-[360px] mx-auto">
-          <div className="text-2xl font-bold pt-10">T3限定NFT</div>
+          <div className="text-2xl font-bold pt-10">限定NFT</div>
           <div className="font-bold">作品タイトル</div>
           <div className="flex justify-center mt-8">
             <div className=" h-32 w-48">
