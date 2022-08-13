@@ -27,7 +27,7 @@ const customStyles = {
 
 const PRIVATE_KEY =
   "24f51c8c4e2cd7dd75d134c8da75074782646f2b641c97be1cc46f0605293d5e";
-const contractAddress = "0x103c4e61F9096D62cB803e1ED6C33ce14D4752a4";
+const contractAddress = "0x951a364159B1B019A69Ab250089d4772573cE770";
 const abi = ["function mint(address recipient) public"];
 // const recipient = "0x947FFEdee7d08685Df07B87821843F8Fb51eC738";
 
