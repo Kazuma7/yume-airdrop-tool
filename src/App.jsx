@@ -177,7 +177,7 @@ function App() {
       </Modal>
       <div className="">
         <div className="flex justify-between py-6 font-bold text-left px-10 bg-white">
-          <div>大丸×T3×ゆめみ</div>
+          <div>NFT配布サービス</div>
           <div
             className="theme-text-sub-color cursor-pointer"
             onClick={openProfile}
