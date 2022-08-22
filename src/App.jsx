@@ -62,7 +62,10 @@ function App() {
       );
       setLoad(false);
       // window.location = "https://tofunft.com/user/" + wallet.address;
-      window.location = "https://testnets.opensea.io/" + wallet.address;
+      // window.location = "https://testnets.opensea.io/" + wallet.address;
+      window.location =
+        "https://kazuma7.github.io/yume-collection/?userAddress=" +
+        wallet.address;
     };
     mintNFT();
   };
