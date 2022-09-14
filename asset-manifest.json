@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yume-airdrop-tool/static/css/main.ba598d7c.css",
-    "main.js": "/yume-airdrop-tool/static/js/main.f33363b3.js",
+    "main.js": "/yume-airdrop-tool/static/js/main.8ade4971.js",
     "static/js/787.bc4238e0.chunk.js": "/yume-airdrop-tool/static/js/787.bc4238e0.chunk.js",
     "index.html": "/yume-airdrop-tool/index.html",
     "main.ba598d7c.css.map": "/yume-airdrop-tool/static/css/main.ba598d7c.css.map",
-    "main.f33363b3.js.map": "/yume-airdrop-tool/static/js/main.f33363b3.js.map",
+    "main.8ade4971.js.map": "/yume-airdrop-tool/static/js/main.8ade4971.js.map",
     "787.bc4238e0.chunk.js.map": "/yume-airdrop-tool/static/js/787.bc4238e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba598d7c.css",
-    "static/js/main.f33363b3.js"
+    "static/js/main.8ade4971.js"
   ]
 }
